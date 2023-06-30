@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\bin\Debug\WindowsSignIn.exe.config
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\bin\Debug\WindowsSignIn.exe
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\bin\Debug\WindowsSignIn.pdb
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.Form1.resources
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.Properties.Resources.resources
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.exe
+C:\Users\USER\Desktop\STUDY\C#\practice\CsharpPrac\Doit_C_Sharp\WindowsSignIn\obj\Debug\WindowsSignIn.pdb
